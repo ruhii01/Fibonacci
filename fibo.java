@@ -1,3 +1,4 @@
+package Fib;
 public class fibo {
 
     public static void main(String[] args) {
